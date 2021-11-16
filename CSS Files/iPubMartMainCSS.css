@@ -1,0 +1,20 @@
+#welcomeText {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+#firstText{
+    font-size: 30px;
+    color: #2b6777;
+    
+    
+}
+#secondText {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#singleLetter{
+    color: #ff8300;
+}
